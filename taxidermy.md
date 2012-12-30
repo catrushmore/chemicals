@@ -9,5 +9,3 @@ Was taxidermy a popular hobby in Britain in the time frame of this study?
 * Practical Taxidermy, by John Moyer. NeW York 1979
 * Bird Taxidermy, Harrison James, Newton Abbot (Eng)
 * Haynes on airbrush taxidermy, Haynes NY 1979
-* Another book
-

@@ -1,0 +1,3 @@
+Rationale for selecting a limited range of volumes rather than go through every single one.
+
+Good hk, a photography publicationAdsFeatures e.g tests, investigations, interviews (e.g. affected people, user stories), campaigns (e.g. labelling, availability)Letters from readersChoose selection of dates – legislation/ event based? Pre and post competition commission1954 Poisons1967  Farming and Gardening 1972 Poisons1978 Consumer safety
