@@ -4,7 +4,7 @@
 
 The use of chemicals in the home and their gradual displacement by branded products between 1930 and the 1980s is largely unexplored.  Chemical products are mentioned but not deeply explored in histories of technology. An exception would be in the work on domestic refrigeration; the displacement of gas refrigerators using ammonia (REF) and then replacing chloroflurocarbon refrigerants (REF) and propellants (REF), which is explicity about. 
 
-However, the difference is that the user is not directly buying and interacting the chemical. Refrigerants are kept separate from the user (unless there is an accident) so the problem with CFCs is located in the manufacture and disposal of the product. A CFC aerosol user directly caused the release of damaging CFCs into the atmosphere, as a consequence of delivering the desired chemical mixture for their domestic use. Eventually, there was no choice as legislation meant that CFCs were phased out of domestic products, but consumers had become aware of a problem which had then shaped their consumption choices. 
+However, the difference is that the user is not directly buying and interacting the chemical. Refrigerants are kept separate from the user (unless there is an accident) so the problem with CFCs is located in the manufacture and disposal of the product. A CFC aerosol user directly caused the release of damaging CFCs into the atmosphere, as a consequence of delivering the desired chemical preparation for their domestic use. Eventually, there was no choice as legislation meant that CFCs were phased out of domestic products, but consumers had become aware of a problem which had then shaped their consumption choices. 
 
 I have selected scenarios in which people are deliberately choosing to bring chemicals into their homes and interact directly with them. The use scenarios also provide the opportunity to look at gender issues, although probably in a white middle class British situation as this section could afford these past times. 
 
@@ -16,11 +16,5 @@ Scholarship on the history of environmental issues is increasingly popular and t
 
 I want to show the complexity of issues behind both the availability of chemicals and peoples decisions to use them by mapping out the interlinked factors of...
  
-Looking at language that could be described as pro or anti chemical used on the product packaging and in other promotional material and in consumer reports (Which?). 
+Looking at language that could be described as pro or anti chemical used on the product packaging, in other promotional material, special interest publications, mainstream news and in consumer reports (Which?). Sample publications, corresponding to changes in legislation (e.g. Posions Act) or government advice	
 		
-		**Describe what work is being proposed - brief clear methods including sample sizes statistics, analysis and validation.** 
-		
-		
-
-		
-		Clarify what is the MPhil and what is the PhD (novel contribution) 

@@ -1,0 +1,222 @@
+HYLE--International Journal for Philosophy of Chemistry, Vol. 12, No.1 (2006), pp. 31-44.
+http://www.hyle.org 
+Copyright © 2006 by HYLE and Peter Weingart
+
+
+Special Issue on 
+"The Public Image of Chemistry", Part I
+
+
+
+
+Chemists and their Craft in Fiction Film
+
+Peter Weingart*
+
+  
+
+Abstract: The paper presents results from a quantitative analysis of some 200 fiction films. Chemistry is the iconic discipline of the ‘mad scientist’ reflecting the alchemical imagery that was prevalent until recently (and can still be identified) in the depiction of science in films. Other results show the ambivalence with which primarily the natural sciences are represented in popular movies.
+
+Keywords: public perception of science, chemistry in movies, alchemy, mad scientist.
+
+ 
+
+1. Introduction**
+
+Michael Crichton, well-known author of bestsellers dealing with science, is a wanderer between the worlds of fact and fiction. Crossing the boundary towards ‘science fiction’ and combining thrilling action with plausible accounts of scientific advances, his books have frequently been turned into movies, the most famous being Jurassic Park. In a talk before the American Association for the Advancement of Science he presented himself as an educated scientist who could boast of degrees in anthropology and medicine as well as of publications in the renowned New England Journal of Medicine. Later he assumed the position of a movie producer and explained to his academic audience that they should not be worried about the negative representation of science in movies, reasoning that since ‘all professions are depicted negatively why should one expect scientists to be treated differently?’ Since there is no match between social reality and the reality presented in movies there is no reason to be concerned about the depiction of science in movies (Crichton 1999, p. 1461).
+
+Crichton is certainly right that the reality content of movies should not be taken too seriously. In particular, the depiction of scientific activity does not lend itself well to story telling because abstract thought or the pursuit of knowledge as such is difficult to represent in images. It is no accident that filmmakers show scientists in adventure or love, or both if they use them in plots. One could assume, therefore, that science is a much too esoteric subject to play any role in a popular medium such as fiction film. However, even a superficial search of movies about science or scientists yields over 400 titles. A study of the representation of science on television has shown that viewers are confronted to a remarkable degree with science, technology, and medicine. Contrary to what could be expected, this does not happen in news magazines or documentaries like NOVA in the US, but in fictional portrayals in the evening program (Gerbner 1987, p. 110). A larger share appears in ‘dramatized entertainment’, i.e. fiction films, be it science fiction movies, hospital series, mystery, or espionage stories. Science and its protagonists are evidently suitable subjects of the dream factory after all.
+
+Crichton is too simplistic if he believes that the way science is represented in movies can only be explained through its particular entertainment value. The clichés and stereotypes about science, especially those regarding the ‘mad scientist’, were neither invented in Hollywood nor by the UfA-producers of the Weimar period. They have much deeper historical roots, and their exceptional stability and continuity qualifies them as products of the popular culture that express a deeply seated ambivalence toward science.[1] Above all, the ‘mad scientist’ stories are an enduring genre of the anti-rationalist critique of science that has found its way from literature into movies (Toumey 1992, p. 434).
+
+Although we have little doubt that movies and TV are exceptionally powerful media, we know next to nothing about their actual impact on the people’s opinions and attitudes toward science. It is an open question if the form of popular critique of science to be found in films is really "extremely effective", as Toumey suggests. Crichton, on the other hand, argues reassuringly. The mass media, he claims, have lost their influence. The film reaches only a fraction of the entire population (Jurassic Park was seen only by 8-15% of the American people), and the Hollywood version of science is not to be taken more seriously by the public than other media contents (Crichton 1999). Apart from the fact that we know very little about the reception of movies in general and of horror films in particular, it is out of the question to assume a linear causality between watching a movie and believing its contents. It is more relevant that all the many versions of the Frankenstein and Jekyll-and-Hyde stories appeal to audiences again and again, that they represent relatively stable stereotypes and are evidently icons of popular culture.
+
+At a time when science in all Western societies is increasingly concerned about its image, because it has lost the unconditional support of the public (or at least of policy makers) that it used to have in the late 19th and throughout the better part of the 20th centuries, one could assume a focused attention on the media that presumably shape the image of science most effectively. The limited evidence we have shows that the depiction of science in TV entertainment cultivates a less than positive picture (Gerbner 1987, p. 112). The same is true for fiction films. Science administrators and policy makers would have ample reasons to be concerned about the image of science that is daily diffused on TV and film screens, even more so as they employ modern media formats and instruments of mass entertainment to raise interest and enthusiasm for science. The mad scientist of the movies is their natural opponent, and they would be well advised to acknowledge his historical presence.
+
+The interest in the image of science portrayed in the many ‘moving pictures’ cannot be limited to the immediate PR effects on the well-being of the institution. Scientific knowledge and research as the activity to bring it about are problematic elements of popular culture. It is a kind of knowledge whose legitimacy has been established and even broadened since the Renaissance but continues to remain controversial.
+
+Examples of attacks on the legitimacy of science are legend. The present generation has little reason to look down upon the irrationalities of earlier generations. The battle of creationism against evolutionary theory in the US or the banning of Western science by radical fundamentalists of different religions readily demonstrate forces that question the rationality of scientific methods and the superiority of scientific knowledge or openly fight against it. The conflict over the boundaries of science, about what methods of knowledge production and what forms of knowledge use should be legitimate, is an inherent element of Western culture. More recent debates over the boundaries of molecular medicine are just further illustrations of the conflict.
+ 
+ 
+2. Popular myths of scientific knowledge
+
+Since antiquity scientific knowledge and its technical applications have been associated with both liberation and enslavement, with the power to exert control as much as with the threat to be controlled, with welfare for the people and with destruction. Gerbner notes that the "popular market for science is a mixture of great expectations, fears, utilitarian interests, curiosities, ancient prejudices, and superstitions", and "mass media appeal to all of these" (Gerbner 1987, p. 110). This fundamental ambivalence associated with science suggests that communicators have to deal with crystallizations around specific issues that seem to recur again and again and are cast into popular myths, while only the specific details change along with new knowledge. One of these myths, probably the most powerful of all, is the creation of artificial human life or its alteration by intervening in hereditary material, i.e. the creation of hybrids, monsters, and the like. The prototypical figure of this myth is the alchemist Dr. Faustus whose apprentice Wagner Goethe has create a ‘homunculus’. His most famous literary successor is Dr. Frankenstein, who has inspired a chain of further stereotypes: Dr. Jekyll, Dr. Moreau, Dr. Caligari, Dr. Strangelove, and others (Haynes 2003). The creation of life appears as the ultimate goal and achievement in the production of knowledge. As the ongoing debate over the moratorium on cloning humans illustrates, the limits to that hubris, however fragile they may have become under the assault of progress, still "exert their power and arouse a certain dread of what will be found beyond these limits" (Back 1995, p. 328). Thus, it can be expected that this myth plays an important role in popular culture in general, and in films in particular.
+
+If one wants to gauge how deep the roots of the critical myths of science actually reach, one needs to go back to their origins and trace their changes through time. Then it becomes understandable how the representation of science in film follows certain patterns.[2] The persistence of the figure of the alchemist as the embodiment of the scientist is best explained with the deep conflict between modern science and religion. Alchemy is foremost a metaphor for the pursuit of material goods and immortality. Authors of the late Middle Ages and early modernity contrast the ‘crazy alchemist’ with admonitions for a frugal life guided by moral and religious values. In the Christian romantic literature of the 18th century criticism was directed against the amoral pursuit of mere knowledge about nature. The true alchemy of the search for God is contrasted with the false alchemy of modern science. Goethe’s Faust represents the limitations of the new experimental science whose far-reaching abilities empower it to manipulate nature but which then loses control over its own products because it lacks a deeper understanding of a holistic natural philosophy.
+
+The division of science into ‘two cultures’ has its origin in this romantic contrast, the core of which is the religiously motivated critique of materialism, nihilism, and hubris. The critique of materialism in modern science is directed against the fact that it no longer needs a God as creator. Materialist science is atheist. To commit the sin of hubris means to give in to the ambitions of modern science to unravel the secrets of divine creation. Mary Shelley’s Frankenstein marks the birth of the mad scientist, whose hubris not only leads himself into ruin, as was the case with his precursors, but now above all also the people in his environment. In the course of the 19th century the critique of modern science’s hubris coincides with the moral critique of the obsessed scientist who unscrupulously pursues his goals and knowingly risks the endangering of other people.
+
+Schummer (2006) reconstructs the genealogy of the mad scientist that I have briefly sketched here, from contemporary literary works and focuses primarily on the religious roots of the critique of science. Toumey, on the other hand, explains why in his view the character of the mad scientist grows increasingly amoral as time passes. He sees the main causes in the artistic process of transferring texts into films and the commercial exploitation of characters through the production of sequels. This development, which he illustrates with film examples, takes place outside and independent of real science. It is foremost due to the unavoidable simplification that characterizes the film vis-à-vis the written text (Toumey 1992, p. 423). Even if one sees the direct influence of the degenerated picture of the scientist conditioned by the medium a bit more skeptically than he does, the dynamics inherent in the movie business is nevertheless an important explanation for the independence of the medium film. It adds to the stabilization and continuity of the myths that determine the social embedding of science.
+
+That these myths are themes of movies does not come as a surprise. In the great majority of films the depiction of science reveals a deep uneasiness, distrust, and even mystification of science on the part of the filmmakers, which mirrors the sentiment of their audience. The images, clichés, and metaphors employed by filmmakers are the mirror image of science in popular culture. At the same time the movies enforce these images and provide them with imaginative detail and decorum. The film as one of the most influential media interacts in complex ways with its audiences, reflecting, shaping, and reinforcing images and identities. It can safely be assumed that science as one of its subjects is no exception to this (Turner 1999, pp. 100, 144).
+
+Whether or not the position of science is now more precarious than in the past is a matter of judgment that is regularly skewed by the short memory of the media and their focus on the present. The many attempts by science administrators and policy makers to increase the public interest, understanding, and even ‘engagement’ in science seem to suggest that science is experiencing a crisis of acceptance. However, the suspicion is that criticism of particular lines of research (e.g. stem cell research, cloning of human embryos) or of the implementation of knowledge in certain technologies (e.g. the genetic manipulation of food) are time-bound expressions of media attention, and that they reflect a much more profound ambivalence toward ‘new knowledge’. Thus, it is worth exploring the more stable patterns and stereotypes that are reproduced by the popular media in order to put present debates into perspective and to arrive at realistic expectations about the possibility of changing the public’s attitudes by short-winded PR campaigns.
+ 
+ 
+3. Chemists and chemistry in fiction films – Patterns and stereotypes
+
+3.1 Note on methodology
+
+The following is based on the analysis of 222 films ranging over eight decades of movie making. The selection of films is not representative in a statistical sense but based on a search for films depicting science and scientists. Out of some 400 identified films the selection of the sample was primarily guided by the availability of the films. However, an attempt was made to have a roughly equal share of examples in each decade corresponding to the distribution of the 400 films over the decades. As can be expected the number of recent films is much higher than that of older films.
+
+The films were analyzed on the basis of a code sheet with about 120 categories. The results are based on the coding by several people. Due to severe limitations of resources and time (the project was carried out in the context of a research seminar with students doing the majority of screening and coding) only in very few cases the inter-rater reliability of the codings was tested. In order to keep the unavoidable impact of subjective judgments small, only results that could be established with some confidence are presented. For the same reason we refrained from further statistical analysis of the data since that would suggest a precision that cannot be sustained by the actual methodology used. All this implies that the percentages given cannot be seen as reliable representative figures. Rather they refer to our selection of movies and should not be interpreted as absolute figures but as relative ones. In the original analysis of the data no particular attention was paid to specific disciplines (Weingart et al. 2003). For the present analysis of the depiction of chemistry, the same film material was used and data for chemistry were extracted where appropriate. However, because of that some overlap with the results already published is inevitable.
+
+The items that were selected provide an initial picture of the representation of chemistry in fiction film.
+ 
+3.2 Popular Disciplines
+
+The assumption is that the relative frequency with which certain fields or disciplines appear in movies reflects most likely the degree of public concern associated with the knowledge produced by them. Chemistry ranks third in the sample after ‘medical research’, on the same level as psychology. If one assumes that disciplines with an image of being potentially life threatening and/or being involved in experiments with human identity receive particular attention in film scripts, chemistry is clearly in a prominent position. This is especially true considering that chemistry is often involved in medical research and to some extent even in psychology. After all, Dr. Jekyll is a chemist who tries to solve a psychological problem, i.e. the separation of the ‘good’ part of man’s soul from the ‘bad’ one. The archetypical Frankenstein in Mary Shelley’s novel seems to use "chemical instruments" to bring his creature to life, and it is only in James Whale’s movie (Frankenstein, 1931) that an electrical process is used.
+ 
+3.3 Settings of research
+
+One of the most characteristic aspects of alchemy that distinguish it from modern science is its secrecy. Likewise, the most characteristic feature of the ‘mad scientist’ film is the secret basement laboratory, usually ornamented with gothic elements of medieval castles. Secrecy is involved even where these stylistic elements are missing (modern type basement laboratories can be found, for example, in The Brain That Wouldn’t Die [1963] and The Fly [1958]). The secret laboratory is also typically the private laboratory of an individual scientist who works at most with one assistant. It is the place in which illegitimate experiments are carried out. This implies that dangerous research is taking place outside of public institutions such as university laboratories and government facilities (although, in fact, such institutions house their share of dangerous practices). Scientists working in their home basements are outsiders. They have isolated themselves from the critical observation of the scientific community because they feel misunderstood, often because they are obsessed with research of questionable goals and methods which they see justified, however, by the success they expect to have.
+
+A fifth of all films in the sample portray science as a secret activity carried out in private basements. In contrast, over 40% of the movies that deal with chemistry are in the alchemist tradition, i.e. showing research being carried out at home. Next to chemistry, no other field except medical research stands out for being associated with this characteristic. Other fields are more likely to be associated with research taking place either as field work (anthropology, zoology, biology, psychology) or at universities (humanities). Chemistry as a discipline depicted in movies has the second highest share of secrecy (behind robotics!) as a feature.
+
+On the level of disciplines we may conclude, albeit with some simplification, that fields that are generally considered socially and/or ethically problematic are also associated with research taking place in secrecy and in places isolated from the critical eyes of scientific peers or the lay public. The unproblematic disciplines typically operate outdoors or in public settings such as universities and government laboratories (Weingart et al. 2003, p. 285).
+ 
+3.4 How knowledge is gained
+
+The activity of ‘doing science’, of research, is usually hidden from the public eye. Precisely because the laboratory is a strange world, because the instruments used by scientists are foreign, and above all, because the methods used are both obscure and powerful, the ways in which scientists gain their knowledge are of particular interest. They arouse suspicion like the methods of jugglers at country fairs who were, after all, the 18th-century traveling demonstrators of electricity in public places (Hochadel 2003, ch. 4).
+
+The major categories that arouse suspicion are ‘experimentation on humans and animals’, which represents a certain problematic type of research, and ‘field research and expeditions’, which are associated with the adventurous sciences. Our analysis shows that movie portraits of medical research and psychology, chemistry, biology, and genetics emphasize experimentation on living objects as the dominant method for gaining knowledge. Chemistry, again, is second only behind ‘medical research’ in being involved in experimentation on humans and animals.
+
+But it is not just the methods and instruments that are suspicious, it is also the scientists’ intellectual power that surpasses that of ordinary lay people, or at least so it seems. The ‘genius’ of scientists as a source of knowledge arouses a certain amount of suspicion because it sets scientists apart from ordinary lay people, and discovery ‘by accident’ also suggests their extraordinary capability to read the ‘book of nature’. Both categories are in accord with the stereotype of the individualist nature of scientific discovery and are prejudices that are held by the lay public and supported by scientists.
+ 
+3.5 Dangerous discovery/invention
+
+One of the most common stereotypes about science is that scientists generate dangerous knowledge, through discoveries and inventions, which is associated with hubris. To a large degree, associations with that kind of knowledge determine the images of the different disciplines. In the case of chemistry only a quarter of the films in the sample shows discoveries in chemistry that are not dangerous. More than half are depicted as unintentionally dangerous, the remainder being depicted as the dangerous results of ill will. This prompts the question of who is depicted as the victim of dangerous research. It turns out that in half of the movies the discoveries and inventions affect uninvolved people. In roughly a third the victim of the discovery is the scientist himself. If one includes colleagues and assistants this share increases to about half of all the films. This reflects the (alchemist) tradition of solitary research and heroic self-experimentation.
+ 
+3.6 Chemistry and ethical values
+
+The ambivalence and potentially threatening nature of scientific knowledge and the technical inventions that accrue from it is expressed in a conflict between scientific knowledge and ethical values. In just more than half of the films (51%) ethical values are challenged, undermined, and in direct conflict with the science portrayed in the respective story (Weingart et al. 2003). If one breaks down the overall result for the different disciplines, the previous picture emerges once again: The discipline that is ethically problematic is above all medical research, to be followed by physics, chemistry, genetics, psychology, and biology. Astronomy, anthropology, and the humanities are mostly regarded as outside of this concern. If one looks at films in which chemistry is a subject, the largest single segment of them shows the discipline being in conflict with ethical values.
+ 
+3.7 Depictions of scientists’ characters
+
+In view of the notoriety of the ‘mad scientist’ as the icon of a movie character one might expect that whenever scientists appear in film plots they tend to be descendants of Victor Frankenstein. Here we have compiled a slightly more complex picture that needs some explanation. On the one hand, results from a host of opinion polls show, time and again, that science as an institution is highly trusted by society. This is reflected in a large number of figures indicating scientists as being ‘benevolent’ and ‘good’. However, our category of the ‘benevolent’ scientist already includes traits of ambivalence. The benevolent scientist can be naive when dealing with powerful interests, can mean well but sees his or her discoveries being put to some perverted use and the like. The ‘ambivalent’ scientists are easily manipulated, idealistic but progressively corrupted, ambitious, lose sight of the consequences of their work, and, most importantly, they grow willing to violate ethical principles for the sake of gaining new knowledge.
+
+If one looks at the distribution of profiles by field it is quite obvious that medical research, physics, chemistry, and psychology are the disciplines that are portrayed with the greatest ambivalence. In these fields the audience is most likely confronted with ‘mad scientists’, the Faustian who trespasses ethical boundaries in order to gain forbidden knowledge and fame. Anthropology, astronomy, zoology, geology, and the humanities, on the other hand, are the fields that seem to have an unchallenged image of trust. The large majority of scientists from these fields are depicted as ‘good’ and ‘benevolent’.
+ 
+3.8 Scientific misconduct by discipline
+
+The misconduct of scientists without any specification of the type of misconduct may be seen as an aspect of the dubious or at least ambivalent nature of science. If science is identified with misconduct this suggests distrust. Again, certain fields are more than others associated with questionable conduct. Chemistry is among them, together with genetics and pathology, even above medical research, biology, and the computer sciences. In literary studies and generally in the humanities misconduct is comparatively rare.
+ 
+3.9 Utopias and dystopias of science – objects of fictional science
+
+Fictionalization is one of the means by which some media, above all film, deals with the problem of representing abstract subject matters to a larger audience whose attention is fleeting. In particular, science and scientists are relatively abstract subjects to be represented by a medium that is normally focused on narrative and action. The world of knowledge has to be adapted to the rules and constraints of visual drama. This is done by representing it in different stages of development that reach beyond contemporary research fronts and technological achievements, and by projecting it onto either utopian or dystopian realms. By doing so films not only reinforce the mystique of the production of new knowledge. They also participate in the process of ‘embedding’ new knowledge in societies to become part of popular culture. In fact, scientists themselves are engaged in this process whenever they project future developments of their research in order to gain acceptance, especially when that appears problematic with respect to dominant values. Their utopian promises (e.g. new medication, cure of illness, longevity) are opposed by dystopian projections from opponents (e.g. dangers like the moral degeneration of society, genetic selection, and the loss of individuality). In the subsequent discourse the new knowledge and social values are gradually accommodated to each other.
+
+In 39% of the films in our sample, real scientific fields are depicted at a fictional level of development; in additional 14% of the films, fictional fields of science are shown. Only less than half (47%) of the movies deal with a non-fictional area of science. For chemistry this is by and large the same.
+
+If one looks at the kinds of subject matters of the fictional or semi-fictional sciences, it is apparent that the projections of the future associated with them are mostly dystopias or at least highly ambivalent utopias. Roughly a third of the movies in the sample deal with artificial, supernatural, human, animal, or extraterrestrial life forms, cloning, reanimation, or immortality. If illness and cure are added to this category the share is even larger (by 5%). The utopian or dystopian views about science are clearly dominated by concerns about the manipulation of human and animal life. These concerns are focused primarily on medical research, as we saw above. But we can infer that chemistry has its share of attention.
+ 
+3.10 Authenticity
+
+Films are made to capture the imagination of the audience. Illusion is the essence of fiction film, and yet filmmakers mostly try hard to create plausible plots and representations, to render their products authentic in order to have impact on the public. Just a little more than a quarter of all chemistry movies are depicted as non-authentic, only about a fifth are comedies and satires. A look at The Nutty Professor shows that not even these are just funny.
+
+The authenticity is obviously enhanced when gadgets and technologies are shown that look familiar to the viewer. Chemistry is often presented in conjunction with familiar instruments. As Schummer and Spector have shown some of these are iconographic for the representation of science as a whole like the chemist holding up a flask and gazing at it (Schummer & Spector 2006).
+
+The overwhelming majority of chemists in movies are represented as knowing the truth. This portrays scientists as authoritative, and thus credible, and therefore contributes to authenticity.
+
+And yet, most films dealing with chemistry in one way or another are meant to frighten their viewers. Roughly a quarter of all chemistry movies are horror movies (Table 1).
+
+Table 1: Chemistry in movies by genre
+
+Action (4.4%)
+
+Animation (3.3%)
+
+Crime (4.4%)
+
+Family (4.4%)
+
+Film-Noir (0%)
+
+Musical (0%)
+
+Romance (0%)
+
+Satire (0%)
+
+War (3.3%)
+
+Adventure (3.3%)
+
+Comedy (13.3%)
+
+Drama (8.8%)
+
+Fantasy (0%)
+
+Horror (24.4%)
+
+Mystery (2.2%)
+
+Science Fiction (8.8%)
+
+Thriller (13.3%)
+
+Western (0%)
+
+  
+3.11 Preoccupation with the past – alchemy
+
+There is no doubt that the legacy of alchemy had its impact on film makers throughout the 20th century as a selection of film titles reveals (Table 2), and probably will continue to do so in the 21st century.
+
+Table 2: Alchemy movie titles from the 20th century
+
+The Hallucinated Alchemist (1897, USA)
+The Clown and the Alchemist (1900, USA)
+The Alchemist (1913, USA)
+Homunculus (1916, Germany)
+Der Alchimist (1918, Germany)
+The Alchemist’s Hourglass (1936, USA)
+Alchimie (1952, France)
+Une Alchimie (1966, Belgium)
+Alchimisten (1968, GDR)
+Alchemik (1990, Poland)
+Des alchimistes / Alchemists (1991, Canada)
+Alchemy (1997, USA, TV)
+The continuity of the occurrence of alchemy raises the obvious question of what if anything has changed in the representation of chemistry in movies over the last century. Our material does not provide a definitive answer to that question, not least because the disciplinary focus did not guide the selection of films. Not surprisingly movies dealing with science change the appearance of characters and the decorum of their research laboratories following the fads and fashions of the different genres. The creation of life by means of a cumbersome fictitious assortment of steaming and glowing chemicals that dominated the movies until as late as the 1990’s is slowly being replaced by the clean microscopic techniques of molecular biology. Cloning has entered the movie scene rather late, with the exception of very few films like Boys from Brazil (1978). But the basic stereotypes, the fears associated with the creation of life like the ill meaning scientist and/or the experiment going out of control can be found just the same way in recent productions like Godsend (2003), Blueprint (2003), and The Sixth Day (2000). The impression is that the underlying anxieties about new knowledge reflected in the products of popular culture are much more fundamental than the images which link them to the respective worlds familiar to their audiences.
+ 
+ 
+4. Conclusions
+
+To stress once again: these results are impressionistic and cannot claim statistical representativeness. But they are stable enough to allow the general conclusion that chemistry is among the fields of science that, in spite of all the benefits that it may have brought to mankind or perhaps because of them, has difficulties communicating with the lay public if the anxieties and ambivalences expressed in popular fiction movies are being taken as an indicator. Chemistry is not alone in this position. Medicine fares worse, and physics not much better. It may be concluded that the most powerful scientific disciplines – powerful in terms of shaping our environment and thus ourselves – are also those that are seen with the greatest suspicion. As far as the immediate PR needs of the discipline are concerned, the crucial question for the chemistry community is if the images of the field communicated through movies do have an impact in particular on young people, and what this impact is like.
+ 
+ 
+Notes
+
+[**]  Parts have been taken from a German version ‘Von Menschenzüchtern, Weltbeherrschern und skrupellosen Genies: Das Bild der Wissenschaft im Spielfilm’ in Weingart 2005. The material has been extracted from an analysis of 220 fiction films the results of which were published in Weingart et al. 2003.
+
+[1]  Two years after the publication of the first results of this project I came across Crichton’s article and a manuscript by Joachim Schummer raising the same points vis à vis Crichton. I also owe other information to him that had been unknown to me before (Schummer 2006).
+
+[2]  For the following I rely on Schummer 2006 for some detailed references to literary figures as well as on Haynes 1994.
+ 
+ 
+References
+
+Back, K.W.: 1995, ‘Frankenstein and Brave New World: Two Cautionary Myths on the Boundaries of Science’, History of European Ideas, 20, 1-3, 327-332.
+
+Crichton, M.: 1999, ‘Ritual Abuse, Hot Air, and Missed Opportunities’, Science, 283, 1461-1463.
+
+Gerbner, G.: 1987, ‘Science on Television: How it Affects Public Conceptions’, Issues in Science and Technology, Spring, 109-115.
+
+Haynes, R.D.: 1994, From Faust to Strangelove: Representations of the Scientist in Western Literature, Johns Hopkins UP, Baltimore & London.
+
+Haynes, R.D.: 2003, ‘From alchemy to artificial intelligence: stereotypes of the scientist in Western literature’, Public Understanding of Science, 12, 243-253.
+
+Schummer, J.: 2006, ‘Historical Roots of the ›Mad Scientist‹: Chemists in 19th-century Literature’, Ambix, vol. 53, no. 2 (forthcoming).
+
+Schummer, J. & Spector, T.: 2006, ‘Popular Images versus Self-Images of Science: Visual Representations of Science in Clipart Cartoons and Internet Photographs’, in: P. Weingart & B. Hüppauf (eds.), Images of the Sciences in Public Media, Routledge, London & New York (forthcoming).
+
+Toumey, C.P.: 1992, ‘The moral character of mad scientists: A cultural critique of science’, Science, Technology and Human Values, 17, 411-437.
+
+Turner, G.: 1999, Film as Social Practice, 3rd ed., Routledge, London & New York.
+
+Weingart, P.: 2005, Die Wissenschaft der Öffentlichkeit, Velbrück, Weilerswist.
+
+Weingart, P., Muhl, C. & Pansegrau, P.: 2003, ‘Of power maniacs and unethical genius: science and scientists in fiction film’, Public Understanding of Science, 12, 279-288.
+
+Peter Weingart: 
+Department of Sociology, Institute of Science and Technology Studies, University of Bielefeld, 33501 Bielefeld, Germany; weingart@uni-bielefeld.de
+Copyright © 2006 by HYLE and Peter Weingart
