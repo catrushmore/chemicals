@@ -18,12 +18,22 @@ Risk and Culture: technological and env dangers**
 LGL 
 M05.E04266 Trust Making and Breaking
 
+***LGL (UBHU) M02.E14137
+Commercial Cultures eds Jackson, Miller et al***
+
+LGL (UBHU) M89.E05920
+Nuclear Fear   Spencer WEart
+
 M07 E00059
 Synthetic worlds, nature, art and the chemical industry
 
 Lower Gladstone Link
 UBHU M03.E05724
 Sociological Theory and the environment 
+
+(UBHU) M92.G01030
+British Politics environment McCormick
+
 
 247927 e.262
 The shocking history of Advertising - Turner
