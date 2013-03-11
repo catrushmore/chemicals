@@ -3,4 +3,4 @@ Which branded chemicals did people use? What did people use before branded che
 Health of self/ Children/ pets  - caring for self and others
 
 Education - level of, subjects, likes/ dislikes
-		draw out sciences at school, esp chem - emember any demonstrations, experiments or projects?
+		draw out sciences at school, esp chem - remember any demonstrations, experiments or projects?

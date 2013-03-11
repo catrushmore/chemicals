@@ -1,4 +1,8 @@
-Bodleian library books to findUBHU S.Hist .10.80.153Upper Camera, Bodleian open shelvesBlack and Pemberton – An Affluent Society? 
+Bodleian library books to findUBHU S.Hist .10.80.153Upper Camera, Bodleian open shelvesBlack and Pemberton – An Affluent Society?  
+
+Hist QV 711 PHA
+Upper Camera
+Pharmaceuctical indsutry - historical research guide
 
 Hist QB637 POO 2008
 upper camera
