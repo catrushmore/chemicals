@@ -1,0 +1,24 @@
+Travels with an ECD
+James Lovelock
+p6- 12 Resurgence No 87, Mar/Apr 1998
+
+Until the 1950’s it was usual for scientist to make or at least design their own instruments. Most labs had a workshop with metal owrking tools, lathes and milling machines and scientists were expected to be ale to use them. Electronic devices were made by hand using thermoionic vacuum tubes mfcd for use in radio and sound equiopment. Because we made our own eqpt we understood its limitations and capabilties. such insight is denied most scientists today who use commercial insturments without understanding what goes on inside the case.
+
+Had I read the literature of ionisation phenomena in gases before doing my experiments I would have been hopelessly discouraged and confused. Instead I did some expts. Fortunately we were not hampere by h&S. Scientists who used dangerous chems or radioactive materials were expected to be personally responsible. I doubt if under the stilfing restrictions of today I would have had the persistence to carry n with so uncertain a project as the infanct ECD. 
+...While I was iproving and trying to understand the mechanism of detection by electron capture, serious scientists were applying the detector to the practical analysis of pesticide residues in foodstufs. In the USA Watts and Klein of the FDA adn n the UK Goulden and colleages at Shell established theh base data about pesticide residues. This basic infromation soon became the hard facts of the envionmrnal movement. No longer a local problem, humans affecting the environment on a global scale. Data about distribution of pesticides and poisoneous effect on birds of prey led RC to write SS... bound to affect the course of politics, gloomy forecast os a ss has come true, not as she predicted by pesticide poisoning alone, but siply by habitat destruction. 
+
+When I frst heard that ECD was being usein this way I was delighted. I shared with RC her concern over damage to natural ecosystmes. Some parts of the chem ind reacted ina shameful and foolish way by trying to discourage her as a person. ...
+
+p10 I realise now that both statements were misleading. Worse enthusiasts of the idea began to speak of the EArth as a living or ganism - not as we said “The EArth behaves like a living organism.” These misunderstanding led to heavy crit from biologists. 
+
+p11 collecting seaweed on holiday in Ireland - tested volatile emissions using a siple gas chromatograph. Knew that algae emitted DMS but astonished to dsicover that methyl iodide was emitted by mors o f the large algae. Toxic and carc, unexpected outside the lab of an organic chemist. So is bromoform, unlikely product of ocean organisms. 
+
+Decide if haze was a natrul phenomenon or mand made by measuring CFCs in it. Unequivocally man made, other chems are both natural as wee as mm sources. 
+
+Shackleton research trip - carbon tetrachloride, methyl chloroform, as well as cfcs - global presence. Rowland and Molina used my data in their historic NAture paper - made public concern about potential of CFC to deplete ozone. Lovelock initially skeptical. AT the time, monitoring not a ban seemed the right thing 
+
+p12 involvement of DMS in CCN - cloud condensation nuclei - sulpuric acid and ammonium salts, not enough sea salt particles to accound for abundance of CCNs - didn’t come from industrial sources, must be atmospheric oxidation of natural DMS. Conclusions published in Nature 1987. 
+
+Holiday cottage became first station of what was to become the GAGE global monitoring network. Conventional lab gas chromatograph equpd w EC coudl monitor CFCs automatcally. Used HP model, ran without problems for a year. Orobably atmospheric lifetimes of CFCs calculated from the measurements collected from this and other stations. 
+
+Difficulies of analysis by DC were dismissed - no bad inst, only bad analysts, careful calibration can always get results. 
