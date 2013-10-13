@@ -1,0 +1,11 @@
+
+Adding your stuff to the staging area -> ga -A . or git add -A .
+Will calculate what you have deleted or moved or changed or added
+
+Committing your change - git commit -am "Your message here" or gcm "Your message here"
+This labels the changes you have in the stanging area and adds them to the history
+
+git log or gl will show you the changes you have made to your local repository
+
+git push origin master will push your local changes to github. you should probalby do this *every day*. At least. Just saying.
+
