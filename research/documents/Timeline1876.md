@@ -19,7 +19,9 @@ Timeline
 1961 - Jeyes Sanitary Compounds bought and will take over the manufacture and sales of Scrubbs cloudy ammonia and other household products of Scrubbs co. 
 1961 - Thalidomide withdrawn from UK market (licenced from 1958)
 1962 - Silent Spring published, Rachel Carson
-1962 – Launch of first products for automatic household dishwashers – detergene and rinse aide (Somat-Reiniger and Somat-Klarspuler1963 – Consumer Council set up, ties to industry which was always a weakness. 1964 Home perm TV commercials dropped (long straight hair became more  fashionable) 
+1962 – Launch of first products for automatic household dishwashers – detergene and rinse aide (Somat-Reiniger and Somat-Klarspuler
+1962 - Paraquat available to agricultural users as Grammoxone
+1963 – Consumer Council set up, ties to industry which was always a weakness. 1964 Home perm TV commercials dropped (long straight hair became more  fashionable) 
 1965 - River authorities (27) with additional powers for water conservation supersed the river boards - Water Resources Act 1963
 1965 - The Guardian newspaper start a column called “Readers New Lines” where readers write in to recommend brand name products for solutions, the writer Jean Redhead or Elizabeth Smart will often test them out. 
 1965 - spaceship earth Adlai Stevenson - speech to UN we travel to gether, passengers on a little space ship
@@ -28,7 +30,7 @@ Timeline
 1966 - Aberfan disaster October, collapse of colliery spoil heap - described as perhaps the first time that the potential for public harm was realised  - see Chem plant site selction and the Env Pne ady joint symposium talk.
 1966 – Monopolies Commission – detergent giants Unilever and P&G should reduce their prices by an average of 20% and the advertising expenses by 40%. 
 1968 - Population Bomb, Paul Ehrlich (and Anne, uncredited)
-1968 Trade Descriptions Act made it an offence to apply a “false trade description” (in effect, any statement that might influence a purchasing  decision) to any goods 1968 – Clean Air Act 1968 Tall Chimneys for factories to disperse better. 
+1968 - Trade Descriptions Act made it an offence to apply a “false trade description” (in effect, any statement that might influence a purchasing  decision) to any goods 1968 – Clean Air Act 1968 Tall Chimneys for factories to disperse better. 
 1968 - Operating Manual Spaceship EArth, Buckminster Fuller
 1969 - Brobat Beauties - glamour models to sell disinfectant in stores - selling point was new pvc bottles, which were lighter weight than their glass versions. Money off, gift offer of beauty pack. 
 1969 - Shirley Conran taken on at the Daily Mail, rebrands pages for women “Femail”
@@ -40,9 +42,9 @@ Timeline
 1972 - January  - Blueprint for Survival published in special edition of The Ecologist
 1972 - UN Stockholm - June highlighted complex relationships within the world ecosystem, stressed human dimension
 1972 - European Communities Act  - Britain hands over some powers to EC
-1972 – Con Gov appointed Minister for Consumer Affairs within DTI1972 Shoe polish advertising began a marked decline 1972 – Henkel launch Der General liquid household cleaner1973 Fair Trade Act and Office of Fair Trading set up 
+1972 – Con Gov appointed Minister for Consumer Affairs within DTI1972 - Shoe polish advertising began a marked decline 1972 – Henkel launch Der General liquid household cleaner1973 Fair Trade Act and Office of Fair Trading set up 
 1974 - regional water authorities set up (ten of them in Eng and Wales) with resonsibiilites for whoe water cycle inc supply, draininage and sweage tmt, river polln prevention
-1974 TV adspend dropped for the first time, from £210m to £195m at end of year 1974 Annual TV ad spend fell on flour and baking products (thrift indicators) 1974 – No more drying up : With improved Pril (Germany)
+1974 - TV adspend dropped for the first time, from £210m to £195m at end of year 1974 - Annual TV ad spend fell on flour and baking products (thrift indicators) 1974 – No more drying up : With improved Pril (Germany)
 1975 - Flixborough explosion - chemical plant
 1974 – Lab Gov established Secretaty of State for Prices and Consumer Protection
 1974 - Health and Safety Commission established
@@ -53,9 +55,9 @@ Timeline
 1977 EC outlined principles to guide env policy
 1978 - Evacuation from Love Canal, US, after investigation - Hooker Chemical sold site to Niagra Falls School Board 1953. Urban planning scandal. Land use, restrictions, infomration. 
 1979 - Select Committee on the Environment
-1983 Harrods terrorist bombing 1983 – Dixan is launched  as the first phosphate free laundry detergent in Germany. 
+1983 - Harrods terrorist bombing 1983 – Dixan is launched  as the first phosphate free laundry detergent in Germany. 
 1984 − 3 December Union Carbide Bophal disaster, 
 1984 - EU Directive on misleading advertising
-1985 New edition of The IBA Code of Advertising Standards and Practices, with special mention of advertising to children, privacy, religion, subliminal advertising, "unacceptable products & services" etc 1987 – Persil liquid is launched (Germany?) 1987 – Association for Consumer Research created to serve consumers in the public interest, while the Consumer Assoication remained as a comparative testing service for subscribers.
-1988 - July, Camelford water pollution, accidental contamination of drinkign water with aluminium sulphate. As the sulphate broke down it produced sulphuric acid, stripping a “cocktail of chemicals from the pipe networks as well as lead and copper piping in peopl’s homes”
+1985 - New edition of The IBA Code of Advertising Standards and Practices, with special mention of advertising to children, privacy, religion, subliminal advertising, "unacceptable products & services" etc 1987 – Persil liquid is launched (Germany?) 1987 – Association for Consumer Research created to serve consumers in the public interest, while the Consumer Assoication remained as a comparative testing service for subscribers.
+1988 - July, Camelford water pollution, accidental contamination of drinking water with aluminium sulphate. As the sulphate broke down it produced sulphuric acid, stripping a “cocktail of chemicals from the pipe networks as well as lead and copper piping in peopl’s homes”
 1988 - December 21, Lockerbie bombing / disaster, Scotland  — what was the explosive? Not homemade? i.e.semtex/ gelginite/ dynamite1992 – UK Eco-Labelling Board set up to scrutinise cleaners.  Voluntary submission of products – none of the manfuacterers submitted.  1996 – National Consumer Council – Green Claims report. Boasting biodegradability when had complied with basic EU standards of 80% breakdown in 3 hours (i.e. has stopped foaming): Daz, Biological Persil. http://www.henkel.co.uk/cps/rde/xchg/henkel_uke/hs.xsl/89_UKE_HTML.htm Chinese migration1950s – grew rapidly Caribbean1948 – Windrush1962 – Commonwealth Immigration Act (restriction)Sikh1950s-60s from Punjablater from east AfricaMuslim1950s – 1960s escape division of british India into Pakistan and India – violenceConstruction of dam in Mirpur district 1960s displaced many peoplehttp://www.unilever.com.ph/brands/hygieneandwelbeing/aroundthehouse/ 
