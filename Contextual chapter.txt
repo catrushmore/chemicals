@@ -1,14 +1,19 @@
 Contextual chapter
 
-
-Look at the types of information available to people about chemicals - I think this is the place to deal with the types of television show, books and media. 
+What should I cover?
 
 What general historical milestones do we have - periods of depression, austerity, affluence, types of work available to people? 
+	How does this affect products available, or people's time to do tasks (related)?
 
-Are there any milestones here that relate to the chemicals I'm writing case studies of? 
-
+Are there any milestones here that relate to the chemicals I'm writing case studies of?
+	 This could include discoveries of chemicals, tests, incidents that were widely reported (e.g disasters, murders)
+	 
 Are there key pieces of legislation? 
-
+ 	Are they related to other milestones, that might raise awareness / have a knock on effect e.g. wider health and safety issues
+ 	How do they affect everyday users?
+ 	
+Look at the types of information available to people about chemicals - I think this is the place to deal with the types of television show, books and media. 
+ 	
 Clicking this number[^fn-sample_footnote] will lead you to a footnote.
 
 [^fn-sample_footnote]: Handy! Now click the return link to go back.

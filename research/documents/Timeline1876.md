@@ -41,7 +41,7 @@ Timeline
 1971 - Spaceship Earth mentioned at Earth Day 
 1972 - January  - Blueprint for Survival published in special edition of The Ecologist
 1972 - UN Stockholm - June highlighted complex relationships within the world ecosystem, stressed human dimension
-1972 - European Communities Act  - Britain hands over some powers to EC
+
 1972 – Con Gov appointed Minister for Consumer Affairs within DTI1972 - Shoe polish advertising began a marked decline 1972 – Henkel launch Der General liquid household cleaner1973 Fair Trade Act and Office of Fair Trading set up 
 1974 - regional water authorities set up (ten of them in Eng and Wales) with resonsibiilites for whoe water cycle inc supply, draininage and sweage tmt, river polln prevention
 1974 - TV adspend dropped for the first time, from £210m to £195m at end of year 1974 - Annual TV ad spend fell on flour and baking products (thrift indicators) 1974 – No more drying up : With improved Pril (Germany)
