@@ -1,11 +1,44 @@
 Paraquat Timeline	
 
 
-1962 - introduced for agricultural use
+1947 - observation that a quaternary salt dodecyltrimethyl ammonium bromide was surprisingly phytotoxic.  (p67 Jeallots Hill)
+
+1954 - dodecyltrimethyl ammonium bromide and close relatives re-tested - quaternaries as a group = herbicidal   Subset of quaternary salts selected by RL Jones from specimen collection at Dyestuffs Division. Tested at Jealotts Hill. 10 lb/acre standard of interest for new leads but two killed all test plants at 0.1 lb/acre.
+ 
+ 	diquat discovered first, paraquat was synthesised 6 weeks later, even more active.
+
+1960 - the actions and properties of paraquat and diquat p77 (on plant matter?) were defined 	
+ 	the chemicals require normal photosynthesis and respiration to become activate by reduction
+ 	hydrogen peroxide and/or superoxide are produced by paraquat and diquat radicals
+ 	chlorophyll destruction also occurs
+ 	dessication symptoms typical of this chemical
+ 	
+ 	uptake of herbicide is taken up through the leaves very rapidly, in minutes. 
+ 	
+ 	had to be a balance of speed and destruction - where paraquat was used on Paspalum conjagatum the effect was very fast but this prevented translocation of the chemical, meaning that regrowth occurred sooner. (p76 JH)
+ 	
+ 	tests all described as "improvised because radio labelled chemicals and sensitive methods of analysis were not then available" which seems to be a bit of an odd statement, because at the time they would have just been working with what they had, unaware of the existence of these things which seem so obvious looking back on the time. 
+ 	
+ 	amalgamation of Jealott's Hill and Fernhurst research capabilities in 1959 provided the experience and manpower needed fo the development of paraquat (had previously focussed only on diquat) which rapidly killed grasses as well as broadleaved plant. 
+ 	
+ 1959 - paraquat field tests in UK (AFJ Wheeler) and Malaya/Malaysia
+ 		not just paraquat alone but in mixtures with simazine and diuron - long lasting effects  (p75 JH)
+ 
+ 1955-58 UK field tests for diquat desicating potato haulm
+ 	
+1961 - diquat instead of sodium chlorate for dessicating potato haulm (p73) In conjunction with a soil moisture deficit monitiroing system to help avoid damage from stem-end rot	
+	
+1961 - sod seeding or chemical ploughing tested at Jealott's Hill - experiment continued over the next 7 years. 1968-9 work to understand what was goign on underground to direct drilled cereal plants helped to illuminate the subject ad drw interest.  The early excited prophecy that direct drilling would relegate the plough to the status of museum exhibit is far from fulfillment. 
+
+
+1962 - paraquat introduced for agricultural use in Malayan plantations - 
+	it displaced sodium chlorate (p73 - UK potato haulm dessicant) for weed control and it displaced sodium arsenite which although cheap and effective was disliked by govts and was dangerous to cattle. Paraquat/diquat was also rainfast, where sodium arsenite was not.   Gramoxone became the worldwide trade name used by ICI for herbicidal formulations containing paraquat.   [nothing about animal tests is mentioned at all here int he JH book]
+
+	dead litter remaining after spraying required cultivation to open up the root mat and expose the underlying rooting medium for the new seeds. In some cases sheep could be walked over treated areas to treat seeds into surface litter. Close grazing or cutting before spraying reduced the problem of large amounts of litter.  (As Charmian said - it's not like it makes the weeds disappear! The dead plant is still left behind. )
 
 1965 - introduced for amateur domestic use as Weedol
 
-first deaths
+1966 - Gramoxone first deaths 
 
 first UK reported accident
 
