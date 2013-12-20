@@ -8,7 +8,7 @@ Gramoxone
 LD50 on rats, rabbits
 chronic - rats - died at 50mg/kg/day, most survived 25mg/kg/day
 subcutaneous - rats - LD50 and chronic (10mg/kg daily) 
-acute oculat - rabbits mild inflammation, no corneal damage
+acute ocular - rabbits mild inflammation, no corneal damage
 skin - rats
 
 3.3 toxicity to man
