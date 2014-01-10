@@ -6,7 +6,7 @@
 
 **Why was there such a delay - was it the war, was it that they were working on something else, it couldn't have just been the geographic distance? Where would I find this out? Maybe Catalyst's archives?**
 
-Paraquat is rapidly inactivated by contact with the soil, which dampened enthusiasm raised by it's unusual herbicidal strength. Recently developed weedkillers on the market such as Fison's simazine were used to suppress weed growth by remaining active in the soil for months. Chemist William (Bill) Boon viewed inactivation as a useful property and persuaded his reluctant colleagues that paraquat was worth developing. 
+Paraquat is rapidly inactivated by contact with the soil, which dampened enthusiasm raised by it's unusual herbicidal strength. Recently developed weedkillers on the market such as Fison's simazine were used to suppress weed growth by remaining active in the soil for months. Chemist William (Bill) Boon viewed inactivation as a useful property and persuaded his reluctant colleagues that paraquat was worth developing. Scientists at Plant Protection had developed MCPA (2-methyl-4-chlorophonoxy acetic acid) which along with 2,4-D were 'hormone weedkillers' and from 1946 a part of a new era in chemical weed control, increasing the area that could be treated quickly and effectively. MCPA persisted in the soil, was taken up by the roots and killed broad leaved weeds (selective).  1958 market survey indicated that there was a strong demand for another hormone weedkiller
 
 *Mechanism of action section*
 A contact herbicide, absorbed through the leaves paraquat disrupts photosynthesis 
