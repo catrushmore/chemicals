@@ -1,0 +1,13 @@
+What do I need to do with footnotes?
+
+The footnote should make its own number.
+ 
+If I rearrange the order, the footnote should not get jumbled - the stuff should stay with the number. 
+
+I would like the footnotes to appear at the bottom of each printed page, not the end of the document
+
+If there is a way of using the bibliography information that is in EndNote, that would be really useful, as that allows me to change styles, and also remain consistent through the document. Otherwise I need to make a bibliography with my refs ready to use in the footnotes. 
+
+Sometimes I have put comments in [ ] within quotes - this is convention. 
+
+I have tried to put my references so far into [ ] as well, which might be problematic. 
