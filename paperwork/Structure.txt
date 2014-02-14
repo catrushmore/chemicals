@@ -21,10 +21,10 @@ Contextual Chapter
 				key players - e.g. Joyce Butler
 			gardening practices, use of weedkillers
 				Chemicals for the Gardener
-			regulatory bodies
-			poisons sales/restrictions
+			regulatory bodies, legislation
+			poisons sales/restrictions, legislation
 			environmental awareness
-			labelling
+			labelling, legislation
 			childproof tops
 			screw tops, recycling
 			
@@ -43,5 +43,8 @@ Maybe start with two chapters, then merge if necessary later. Put the contextual
 Stain removal in relation to textiles/ laundry
 Ammonia
 Carbon tetrachloride
+
+----------------------------------------------------
+Conclusion
 
 	
