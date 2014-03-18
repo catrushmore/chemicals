@@ -9,7 +9,7 @@ Society of Plastics Industry  (USA) reacted to public concern/hysteria - spread 
 Really interesting section on the use of the word plastic in media and literature, describing people as 'plastic' in a bad way. Advertising  - too good to be served on plastic, real people deserve real silverware, all metal no plastic, 
 
 
-1968 - Sidney Goss problem of garbage was not plastics or packaging, but "our civilisation, our exploding population, our life-style, our technology". Inert landfill vs incineration (polluted air, corrode incinerators and leach into ground water). By 1970 people were discussing recyclables and decomposing plastic relish. 
+1968 - Sidney Goss problem of garbage was not plastics or packaging, but "our civilisation, our exploding population, our life-style, our technology". Inert landfill vs incineration (polluted air, corrode incinerators and leach into ground water). By 1970 people were discussing recyclables and decomposing plastic rubbish. 
 
 Aesthetic problem of plastic litter - "easier to arouse people about bleach bottles washed up on beaches and styrofoam cups tossed along the road. While paper litter disintegrated, the plastic remained as a visual reminder of an inflationary culture".
 
