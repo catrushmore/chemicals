@@ -26,7 +26,7 @@ fleeting vs long lasting  action
 
 p45
 Controlled vs natural exposures (consumer tests, design and interpretation)
-random and accidental differences should be eliminated. With many conumser product tested under natural use conditions a major source of random differences is the way of using the produt. e.g. the amount, the volume of water, the temp, some rinse in clean water, others don't. They differ in how they evaluate eht product in general and its fragrance. Soime sniff the bottle, other d o not. Cooking odours interfere while in well ventilated kitchens the fragrance may be more noticeable. Some respondents use a hand lotion after dishwashing and never notice any residual odour left by the detergent. In large groups, this averages out. 
+random and accidental differences should be eliminated. With many consumer product tested under natural use conditions a major source of random differences is the way of using the product. e.g. the amount, the volume of water, the temp, some rinse in clean water, others don't. They differ in how they evaluate the product in general and its fragrance. Some sniff the bottle, other do not. Cooking odours interfere while in well ventilated kitchens the fragrance may be more noticeable. Some respondents use a hand lotion after dishwashing and never notice any residual odour left by the detergent. In large groups, this averages out. 
 
 p48
 usage condition tolerance:
@@ -39,10 +39,10 @@ enclosed spaces - stronger .This should be taken into account when setting fragr
 products applied to warm suffices or in warm media release their fragrance faster, and make it travel father. 
 the distance over which the fragrance of a product remains perceptible can be controlled by adjusting the fragrance concentration. 
 
-p193masking of human, env and produt odour remains primary function of fragrance. 
+p193 masking of human, env and product odour remains primary function of fragrance. 
 p194
-preferred way to deal with odours is to eliminate them at source. replace malodours substance w something less stinky. When elelimnation is not practical, removal by chemical or physical means may offer a solution. 
-aerosol room deodorant probab ly work chemically and physically - mist of fine droplets dissolves and precipitates the unwanted space odorants, and active ingredients fact with them to form non volatiles na non odourless reaction products. 
+preferred way to deal with odours is to eliminate them at source. replace malodours substance w something less stinky. When elimnation is not practical, removal by chemical or physical means may offer a solution. 
+aerosol room deodorant probably work chemically and physically - mist of fine droplets dissolves and precipitates the unwanted space odorants, and active ingredients fact with them to form non volatiles na non odourless reaction products. 
 
 if removal is not possible, the smell can be maskd
 olfactory neutralisation - find materials tat counteract the door of others. Tests by expel psychologist demonstrate that partial neutaliatiiion can occur but knowledge is too incomplete
