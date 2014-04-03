@@ -7,7 +7,7 @@ State name (or alias) of interviewee and interviewer
 Date and location of interview
 For Catherine Rushmore’s AHRC CDA PhD Chemicals and their Users in the British Home 1930 − 1980s
 
-We’re here to talk about your experiences of using chemicals in a domestic setting. First of all, I think its interesting to find out about where you grew up, what you enjoyed (or didn’t) at school, what past times you had and what you wanted to do when you grew up. Can you tell me about yourself please? 
+We’re here to talk about your experiences of using chemicals in a domestic setting. I think its interesting to hear about your childhood first, to hear about your memories of chemicals when you were growing up. Can you tell me about yourself please, where and when did you grow up ? 
 
 		Prompts
 			Was any kind of chemistry part of your schooling?

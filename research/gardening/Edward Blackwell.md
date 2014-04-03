@@ -1,6 +1,6 @@
 Edward Blackwell
 
-p35  made ‘gunpowder’ I had heartd that gp fascinating for smal obys was produced by gringing together charcoal, saltpetre and supher - black white and yellow. Charcoal was easy but sp had to be represented by powedered limestone and sulphur by yellow sand. 
+p35  made ‘gunpowder’ I had heartd that gp fascinating for smal obys was produced by grinding together charcoal, saltpetre and supher - black white and yellow. Charcoal was easy but sp had to be represented by powedered limestone and sulphur by yellow sand. 
 
 helped to package up patent medicines for Mr Fred. Own father ran (or used to run) pharmacy. 
 
