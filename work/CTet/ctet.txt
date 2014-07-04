@@ -1,0 +1,401 @@
+1.  Purification of carbon tetrachloride
+Inventor:
+NICHOLS WILLIAM T	
+Applicant:
+WESTVACO CHLORINE PRODUCTS INC	
+CPC:
+C07C17/38
+C07C19/041	
+IPC:
+C07C17/38
+C07C19/041
+Publication info:
+US2016804 (A)
+1935-10-08	
+Priority date:
+1933-12-07
+ 
+ 2.  Stabilizing carbon tetrachloride
+Inventor:
+BRALLIER PAUL S	
+Applicant:
+NIAGARA SMELTING CORP	
+CPC:
+C23G5/02861	
+IPC:
+C23G5/028
+Publication info:
+US2002168 (A)
+1935-05-21	
+Priority date:
+1933-04-05
+
+ 3.  Process for making carbon tetrachloride
+Inventor:
+BRALLIER PAUL S 
+DUNLAP EDWARD J 
+(+1)	
+Applicant:
+NIAGARA SMELTING CORP	
+CPC:
+C07C17/093
+C07C19/041	
+IPC:
+C07C17/093
+Publication info:
+US1817123 (A)
+1931-08-04	
+Priority date:
+1922-06-30
+ 
+ 4.  Process of dehydrating aqueous acetic acid with carbon tetrachloride
+Inventor:
+CLARKE HANS T 
+OTHMER DONALD F	
+Applicant:
+EASTMAN KODAK CO	
+CPC:
+C07C51/46
+C07C53/08	
+IPC:
+C07C51/46
+Publication info:
+US1861841 (A)
+1932-06-07	
+Priority date:
+1930-02-15
+ 
+ 5.  Method of preventing the decomposition of carbon tetrachloride and product thereof
+Inventor:
+MARTIN LAWRENCE F 
+ELSTON ARTHUR A	
+Applicant:
+DOW CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US1858022 (A)
+1932-05-10	
+Priority date:
+1929-05-03
+
+ 6.  Manufacture of carbon tetrachloride
+Inventor:
+BRUNO HENNIG	
+Applicant:
+IG FARBENINDUSTRIE AG	
+CPC:
+C07C17/00
+C07C19/041	
+IPC:
+C07C17/00
+Publication info:
+US2160574 (A)
+1939-05-30	
+Priority date:
+1937-05-10
+
+ 7.  Process for manufacturing carbon tetrachloride
+Inventor:
+BRUNO HENNIG	
+Applicant:
+GEN ANILINE & FILM CORP	
+CPC:
+C07C17/00
+C07C19/041	
+IPC:
+C07C17/00
+Publication info:
+US2223448 (A)
+1940-12-03	
+Priority date:
+1936-11-19
+
+ 8.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2094368 (A)
+1937-09-28	
+Priority date:
+1935-01-23
+
+ 9.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2069711 (A)
+1937-02-02	
+Priority date:
+1935-01-23
+ 10.  Method of making carbon tetrachloride
+Inventor:
+REILLY JOHN H	
+Applicant:
+DOW CHEMICAL CO	
+CPC:
+C07C17/093
+C07C19/041	
+IPC:
+C07C17/093
+Publication info:
+US2110174 (A)
+1938-03-08	
+Priority date:
+1935-12-02
+ 
+ 11.  Purification of crude-carbon tetrachloride
+Inventor:
+ARSDEL WALLACE B VAN 
+VANNAH HAROLD P	
+Applicant:
+BROWN CO	
+CPC:
+C07C17/38	
+IPC:
+C07C17/38
+Publication info:
+US1697483 (A)
+1929-01-01	
+Priority date:
+1925-03-06
+ 
+ 12.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2043260 (A)
+1936-06-09	
+Priority date:
+1933-10-09
+
+ 13.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2043259 (A)
+1936-06-09	
+Priority date:
+1933-10-09
+ 
+ 14.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2043258 (A)
+1936-06-09	
+Priority date:
+1933-10-09
+
+ 15.  Stabilized carbon tetrachloride
+Inventor:
+MISSBACH EDMUND C	
+Applicant:
+STAUFFER CHEMICAL CO	
+CPC:
+C07C17/42
+C07C19/041	
+IPC:
+C07C17/42
+Publication info:
+US2094367 (A)
+1937-09-28	
+Priority date:
+1933-10-09
+ 
+ 16.  Improvements in Replenishing Electrolytic Cells.
+Inventor:
+SMITH WALTON SPAULDING [US]	
+Applicant:
+SMITH WALTON SPAULDING [US]	
+CPC:
+C25B15/08	
+IPC:
+C25B15/08
+Publication info:
+GB191515761 (A)
+1916-04-06	
+Priority date:
+1915-06-03
+
+ 17.  Improvements in or relating to Methods for Finely Dividing Gelatinising Substances.
+Inventor:
+Applicant:
+CHEMISCHE PRODUKTE VORMALS H S [DE]	
+CPC:
+C09H9/04	
+IPC:
+C09H9/04
+Publication info:
+GB191515365 (A)
+1916-07-06	
+Priority date:
+1914-10-30
+ 
+ 
+ 18.  Improved Manufacture of Sulphides of Phosphorus.
+Inventor:
+FRARY FRANCIS COWLES [US]	
+Applicant:
+FRARY FRANCIS COWLES [US]	
+CPC:
+C01B25/00	
+IPC:
+C01B25/00
+Publication info:
+GB191514962 (A)
+1916-08-03	
+Priority date:
+1915-02-03
+ 
+ 19.  Improvements in the Manufacture of Chlorinated Methylene Chloride.
+Inventor:
+LACY BURRITT SAMUEL [US]	
+Applicant:
+LACY BURRITT SAMUEL [US]	
+CPC:
+C07C17/10
+C07C19/01	
+IPC:
+C07C17/10
+Publication info:
+GB191514709 (A)
+1916-05-04	
+Priority date:
+1915-10-18
+
+ 20.  Improved Device for Cleaning Smoking Pipes and the like.
+Inventor:
+WARRICK FREDERIC WALMSLEY [GB]	
+Applicant:
+WARRICK FREDERIC WALMSLEY [GB]	
+CPC:
+A24F9/12	
+IPC:
+A24F9/12
+Publication info:
+GB191512190 (A)
+1916-05-04	
+Priority date:
+1915-08-24
+
+ 21.  A New Process for the Manufacture of a Lipoid Blood Coagulating Substance.
+Inventor:
+IMRAY OLIVER [GB]	
+Applicant:
+IMRAY OLIVER [GB]	
+CPC:
+A61K35/14	
+IPC:
+A61K35/14
+Publication info:
+GB191511215 (A)
+1915-11-18	
+Priority date:
+1915-08-03
+ 
+ 22.  A New or Improved Plastic or Solid Material or Substance and Process of Producing same.
+Inventor:
+PEACHEY STANLEY JOHN	
+Applicant:
+PEACHEY STANLEY JOHN	
+CPC:
+C08C19/14
+C08C19/16
+C08C19/20	
+IPC:
+C08C19/14
+C08C19/16
+C08C19/20
+Publication info:
+GB191501894 (A)
+1916-03-02	
+Priority date:
+1915-02-06
+ 23.  Improvements in Refrigerating Processes and Apparatus.
+Inventor:
+CORTESI CESARE [IT] 
+PRASSONE EUGENIO [IT] 
+(+2)	
+Applicant:
+CORTESI CESARE [IT] 
+PRASSONE EUGENIO [IT] 
+(+2)	
+CPC:
+F25B1/08
+F25B2341/0015	
+IPC:
+F25B1/08
+Publication info:
+GB191501853 (A)
+1916-03-06	
+Priority date:
+1915-02-05
+ 24.  Improvements in or relating to the Production of Rust-preventing Agents.
+Inventor:
+Applicant:
+MANNESMANN AG [DE]	
+CPC:
+C08L2666/02
+C09D191/005
+IPC:
+C09D191/00
+Publication info:
+GB191413440 (A)
+1915-06-02	
+Priority date:
+1914-02-05
+ 25.  Manufacture of Emulsions and Substances for use therein.
+Inventor:
+BUECKEL CARL [DE]	
+Applicant:
+BUECKEL CARL [DE]	
+CPC:
+C11B3/00
+D06M2200/40
+D06M7/00	
+IPC:
+C11B3/00
+Publication info:
+GB191412141 (A)
+1915-08-05	
+Priority date:
+1914-05-16
