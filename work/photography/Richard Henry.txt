@@ -1,0 +1,83 @@
+controls in B&W photogrpahy
+Richard Henry 1986 ed 2
+
+Dr Richard Henry - laboured diligently... to correct some of the nonsense that has been published and perpetuated about the safety of working with photographic chemicals. His approach is based on the common sense accumulated over 45 years of lab experience with many diff chemicals and chemical procedures. 
+
+Has personally tested and retested those rings about which he writes.He has not simply rehashed what others have published. His book covers the major concerns of every practicing photographer and does so with clarity and correctness. Belongs on the shelf of every serious photographer, teacher and writer on photography. 
+
+
+chapter 4 safety in the darkroom
+
+p39
+frequently encountered strange and questionable admonitions to the photographer about he or she must protect one's health in the darkroom but, aside from momentary irritation, I would let them pass as rather harmless intrusions into safe lab practice. 
+
+(written by author who lays out his credentials as experienced in clinical labs since 1940s, as corporate safety officer there from 1970s)
+who is this book for? is it for home photographers, or full time artists?
+
+refs 72  Bender, R - Darkroom Photography 4, No 7:56 1982
+73 Bender, R - Darkroom Photography 6, No 6, 75 1984
+142 DeBat A - Darkroom Techniquest 5, No4, 11 1984
+327 McCann M - Health Hazards Manual for Artists 1978
+333 Mees and James - Theory of the photographic process 1966
+422 Seeger N - A photographic guide to the safe use of materials Art institut of Chicago 1984
+428 Shaw - Overexposure, Health Hazards in Photography 1983
+
+These books mostly in the 1980s....
+
+if everything they said were taken seriously and obeyed literally I doubt that any photographer would remain one very long. If you wan tot play ultra safe do so. Won't do you any harm although the tedium involved may make life a little miserable. 
+Chief admonitions given are the use of rubber (e.g. surgeons) gloves almost conintueously while workingwi photographic chemicals and sons, face masks while working w powders and safety goggles while working w solns. 
+
+describe what I and most of the amateur and pro photographers do in the photo lab. 
+
+work safely in a safe env using safe tools. Not absolutely safe, that's impossible. Difference between elimination of risk and what good sense tells us is safe enough. 
+I never wear rubber or tother gloves . I never liked surgical rubber gloves even when assisting at operations in internship though am told that one becomes used to them
+p40
+hydroquinone, Metol or Elon (p-methylaminophenol) found in developers -  contact dermatitis
+only small percentage of people would even develop this condition 5-10%
+gives self as example of "highly allergic individual" who has not developed contact dermatitis to any photographic chemical. 
+
+Some people develop dermatitis to gloves. 
+
+Some developers are quite alkaline and alkalinity can cause skin irritation. Slippery feeling - even after momentary contact wash off. 
+
+Second reason advice given to wear gloves is exposure to strong acids/bases
+
+common sense, immediately flush with water which every darkroom has available. Conc acetic and hydrochloric in spite of extreme pungency are not devastating to skin if immediately washed off (not true with nitric and sulphuric) . Let me dispel a mouth which is perpetuated at every opportunity  0 never add water to conc acid. One notable exception - acetic acid, which is the one most commonly used by photographers. 
+
+p41 suggests rinsing with water if the acid does boil explosively
+
+eye care - fountains emergency shower - generally refers to chem laboratories, where people rarely work alone, so can be helped by colleagues. Leaves the amateur  or lone worker unmentioned. 
+
+some may feel more comfortable or safe if they wear a rubber apron in the lab. So wear one. I have never worn one. Either I have been luck yor am constantly aware of when a dangerous operation is to be encountered and automatically exercise greater care. I do wear a dish towel tucked into the top of my pants. Women can wear a lab coat or even the rubber apron. (baffling. Why would women be any different? Hasn't suggested men wear a lab coat)
+
+p43
+describes proper handling inc restoppering bottles
+cannot think of a reason why a b&w photographer would need organic solvents. Some have toxic fumes, all represent fire hazards. Never smoke around flammable solvents when in use. Some represent explosion hazards. Frankly one should be a trained chemist to do any work with hazardous chems such as ethyl ether, toluene, xylene, petroleum ether etc. 
+
+use of toxic dust masks aka respirators whenever handling, mixing or pouring dry chems. Some of the toxic chems used by photographers in the dry form are fine powders which produce a dust that could be hazardous. Proper handling minimise this risk. 
+Many chems on the other hand are crystalline , not fine powders. Silver nitrate, potassium dichromate and oxalic acid are but three of the compounds ehihc shaw warns agains inhalation of their dust, yet all 3 are crystals not fine powders. Avoid dust by buying in solution. Developer Kodak D-76 contains some fine powder, but developer Kodak-HC11 and several others are in solution form. Common sense stella you how to minimise duet problems. 
+p44 I have never used a dust mask - describes proper handling of powders, inc not dropping from height. As a chemist has used fume hood for some powders, but never as a photographer.
+
+pipetting - anyone caught pipetting a soon of cyanide would be banned from the lab as an utter fool. Witht eh advent of more modern cautiousness about safety in the lab it became an absolute rule with v few exceptions that nothing would be pipetted by mouth. If volumes too small for graduated cylinders or flask, the hand operated pipetting accessory which fits the pipet must be used. 
+*No excuse for ever getting toxic materials into the mouth or ingesting them!*
+
+takes special issue with Shaw, points out that it was published by Friends of Photography (though does not say who this FoP are)
+
+ethanol in the darkroom = liver damage
+	- only if you drink it frequently in large amounts
+cyanide and hydrogen sulphide are v toxic and can poison the brain and be fatal
+ - depends on the conc ingestd, or more likely, inhaled. The doors of these 2 poisons are v distinctive and can be easily detected well below lethal levels. If this were not true, I would assure yo uthat not one chemist would be alive to graduate from college with a major in chemistry
+
+wear special clothes and remove after work
+ - would be surprised if 1 in 1000 does this. I do not. 
+
+formaldehyde exists as a powder
+ - incorrect. usually as a gas, available as liquid form
+
+never add hydrochloric acid to potassium dichromate which produces highly toxic chromic acid a suspected lung carcinogen
+ - addition of sulfurc acid also produces chromic acid, the resultant soon is still sold as cleaning soon, esp when made quite warm. This has been the cleaning soon par excellence for glassware by chemists for many decades. Although no odoor is detectable and the fumes emanating from it may be hazardous and the operation best carried out in a fume hood it has been in almost universal use by chemists for a long time.
+
+Statements such as these scarcely build confidence in the remainder of the pubn. Author not a chemist nor a toxicologist. 
+
+Ends. Nothing on ventilation, handling or storage. 
+
