@@ -1,0 +1,5 @@
+nGrams
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Weedol%2Cweedex&year_start=1960&year_end=1990&corpus=15&smoothing=0&share=&direct_url=t1%3B%2CWeedol%3B%2Cc0" width=900 height=500 
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=accidental%2Bpoisoning%2Chousehold%2Bchemicals%2Cgarden%2Bchemicals&year_start=1930&year_end=1990&corpus=15&smoothing=2&share=&direct_url=t1%3B%2C(accidental%20%2B%20poisoning)%3B%2Cc0%3B.t1%3B%2C(household%20%2B%20chemicals)%3B%2Cc0%3B.t1%3B%2C(garden%20%2B%20chemicals)%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
