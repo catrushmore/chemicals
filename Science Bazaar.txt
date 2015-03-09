@@ -3,12 +3,12 @@ Bright Pennies
 Explore the properties of some everyday kitchen chemicals by making pennies shiny .
 
 # materials
-lemon juice
+lemon juice - in the form of either squirty lemon (therefore no knives) or lemons
 ketchup
 bicarbonate of soda
 cola
-cloths
-litmus paper
+j-cloths
+litmus paper 
 
 #Procedure
 introduce children to the activity
@@ -17,3 +17,7 @@ we have a few different ways to make the dull pennies shiny, we can compare how 
 these categories form the basis of all household cleaning preparations
 
 #Risk assessment
+These are all household ingredients, used in small quantities. Any spills will be wiped up to avoid causing a stain to participants clothing, or a slip hazard. These are not common allergens.
+Pennies - children - choking : Instruction in task to clean using cloths and chemicals.  Parental supervision at all times to avoid young children putting pennies in their mouths. 
+Carried out around a table, if overcrowded, ask people to come back later.
+
