@@ -13,8 +13,7 @@ litmus paper
 #Procedure
 introduce children to the activity
 we have a few different ways to make the dull pennies shiny, we can compare how well they do it and find out a bit more about the properties of these kitchen chemicals. We could just polish the the pennies with a cloth, but these items contain chemicals which help us to speed up the process, or make it a bit easier.
-(abrasive, acid, alkali)
-these categories form the basis of all household cleaning preparations
+These chemicals can be described as abrasive, acid or alkali and these categories form the basis of all household cleaning preparations.
 
 #Risk assessment
 These are all household ingredients, used in small quantities. Any spills will be wiped up to avoid causing a stain to participants clothing, or a slip hazard. These are not common allergens.
