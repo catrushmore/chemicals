@@ -1,0 +1,38 @@
+hydroquinone
+skin lightening - is this mentioned as a hazard in the hazbooks?
+	i.e. did they think it was worth mentioning to their audience...
+	
+	
+	health hazards for photographers
+	p57  categorised as 'use with extreme caution'
+			no substitute, or very useful
+			does not say why to use with caution
+			
+			p60 primary hazards with developers (of which hydroquinone makes one with metal) are described as skin allergies (not depigmentation) or respiratory problems. Will it go on to talk about pigmentation?
+			metol discussed as allergic - red, scaly
+			hydroq not listed in those that require glove protection - reserved for particularly toxic paraphenylendiamine, amidol, catechin or pyrogallol
+			
+			p61 inhalation a concern when mixing powders - does not mention hydroq. just powders in general, but does not recommend buying concentrated solutions over powders.
+			do not put bare hands in dev solutions - use tongs or rubber gloves. not barrier cream alone, not effective, cream may affect quality of processed image
+			
+	p68 chlorohydroquinone not categorised as requiring particular caution, and has been in use for a long time 1897 - trade names Chloroquinol and Adurol
+			moderately toxic skin/eye contact and inhalation, toxic ingestion
+			can emit chlorine gas when heated to decomposition
+	p69	local exhaust ventilation, gloves
+			beloved to be component in 
+			Edwal: FG-7 Developer, Platinum Developer
+			Photographers Formularly: Adural Developer, Paper Developer 111 
+	
+	p70 hydroquinone extreme caution, trade names Hydrochinon, Hydrokinone, Hydroquinol, Quinol or Tecquinol
+			skin contact - moderately toxic - allergic reactions, irritation, solid can cause burns, solutions cause dermatitis
+			eye/inhalation  -dust is mod toxic - irritation
+			suspected carcinogen
+			nothing about pigmentation
+			believed to be a component in
+			Edwal: G Paper Developer, Platinum Developer, TST Paper Developer
+			Ilford:  Bromophen Developer, ID-11/ID-11 PWS Developers, Ilfobrobm, Ilfosol 2, Ilfospeed Multigrade, Ilfospeed 2, Micophen
+			Kodak: D-11, D-76, D-88, Dektol, Ektaflow, Ektonol, Kodalith, HC-110, Selectol, Versatol
+			Photographers Formulary: warm toned paper developer 106
+			Ethol: LPD paper developer
+			Kodak D76 M-Q Film Developer
+
