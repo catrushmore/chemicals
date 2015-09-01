@@ -1,0 +1,94 @@
+Andrew Rowan OF Mice, Models and Men
+
+p28
+Shuster criticised British media and opponents of animal research for claiming 2/3 all animal research was non medical. Traced down source and found it came from Ryder, who stated that "less than 1/3 of all licenced experiments on living animals can be see to be medical" Ryder used Home office stats, though relatively uninformative before 1977.
+Home Office more detailed analysis 1977ish
+Less than 1% animal experiments were for testing cosmetics and household prodcts
+
+p216  survey in UK, vast majority objected to cosmetic testing on animals (National Opinion Polls 1974)
+BBC television program on animal experimentation several yrs later asked "would you use a shampoo if it  had not been safety tested on animals?" all answered that they would not. The difference in the responses illustrates the complex nature of the problem.
+
+Draize test - eye irritancy (of relevance to paraquat and diquat studies a diquat was feared to cause cataracts)
+p 218  Proctor and Gamble (1979) extensively critiqued Draize test - rabbit eye greatly exaggerated compared to human response. Should have option of using monkeys. 
+
+p220 Cell cultures to assess irritancy
+Hazleton Laboratories in GB - mouse embryo cells LD29 (Simmons 1980)
+Beecham Products Research Dept in England - human buccal mucosa cells (Bell et al 1979)
+p221 in vitro approach
+bovine eyes from slaughter houses (Carter, Duncan and Rennie 1973)
+human eyes from eye bank (Burton, York and Lawrence, 1981) Unilever
+
+Draize test criticised by scientists as inappropriate and unreliable in the 1970s
+Has remained unchanged, despite good prospects for development of alternatives or improvements
+public can identify with the feeling of having something in their eye
+severe, visible trauma
+New Yorker Henry Spira in 1980 led campaign against Draize test
+approached Revlon asking them to propose that a tiny proportion of budget to development of alternatives. 
+all groups mobilised to write and protest to cosmetic cos, regulatory bodies, representatives, media
+Revlon tired of being sacrificial lamb, galvanised other companies. organised a workshop to discuss prospects of developing an alternative. Editor of *Drug and Cosmetic Industry** "lack of volunteers among industry leaders to help take the heat off Revlon"
+Surprised rest of industry by making large three yr grant to Rockefeller University. , invited other companies to join.
+p224
+Consumer product safety commission - the only fed agency w formal requirement for irritancy tested placed an embargo on all in-house use of Draize test on 8th May 1980
+found a local anaesthetic that could be used in conjunction and modified requirements for testing - contains an known irritant or is found to be irritant in the skin test, mfcr should label as irritant. if refuse, CPSC resorts to full Draize eye test
+
+Environmental Protection Agency in-house moratorium October 1st 1980
+
+FDA mid 1981 declared Draize still considered best available technique but were committing funds to study in vitro
+
+Interagency Regulatory Liaison Group 1981 - suggested new guidelines for Draize test
+	severe dermal irritancy will be assumed to be eye irritant
+	3 instead of 6-9 rabbits
+	anaesthetics not to be used unless test substance likely to cause extreme pain
+	
+p225 Johnson and Johnson - bioassay serotonin release as index of response to an irritant (McCormack 1981)
+In England Unilever reports scientists used amethocain HCl as local anaesthetic when test substance produced pain response. Aesthetic did not interfere with irritant response (Johnson 1981) 
+
+not test above pH12 as obviously irritant
+
+229 chronic toxicity
+generate more data, generally more informative than acute re predict human risk
+long time span, high cost, uses fewer animals than acute
+
+carcinogens (cancer) and teratogens (fetal deformity - started with thalidomide)
+carcinogen testing has generated most media attention as public fears of cancer have stimulated consumer concerns. 
+some cos were alrready testing for teratogenicity if they considered child-bearing age women likely to be exposed, but now reprodcution and metal development now standard. 
+
+p230 2/3 cancers environmental, 
+synthetic chemicals proportion is contested
+environmental industrial chemicals = no more than 5% all tumors (them industry) 
+labor movement argue 40%
+some appear environment refers exclusively to industrial chemistry
+this is gross misinterpretation - Higginson (founding director of International Agency for research on Cancer) says env refers to total environment, cultural as well as chemical
+bulk of environmentally related cancers  - tobacco, alcohol, diet, life style
+
+theoretically preventable. which explains interest in identifying carcinogens. 
+p331 - hard to separate out influences
+
+1916 - coal tars induced in animals
+1962  standard NCI screening of single them took 8 months, $10-15 000
+1972 - test involves 2 species, 30 months $75 000
+1982 - 2 species, may take 5 years $500 000
+not perfect
+quality control, human error, applicability of animal model
+
+Ames bacterial test, mammalian cell transformation test both better than short term animal tests, may be the case for long term tests too
+
+LD50 data contested - no more useful than an approximate lethal does test which uses far fewer animals.
+
+p207
+LD50 test widely criticised by animal welfare groups, and usefulness questioned by toxicologists. 1960 Barnes stated too much effort producing accurate LD50 figures, not enough on definite acute toxicity effects
+1969 Baker acute to studies are of little use and are expensive in animals. The main information they give is an indication of the size of the dose required to commit suicide"
+1973 Zbinden WHO tox consultant "a ritual mass execution of animals" "a wasteful endeavour in which scientific inventiveness and common sense have been replaced by a thoroughness completion of standard protocols"
+
+argument - LD50 is of value to clinicians and other in poison reference centres. Frequently cited fact that many cases of accidental ingestion of large quantities of chemical occur, most involving children under age 5. In such cases the therapy may be unpleasant or dangerous and it is valuable to know the extent of the risk of poisoning before embarking on therapy. 
+Dr Birgitta Wener of the Karolinska Poison Information Centre, Stockholm, argued forceful that quantitative data provide by animal LD50 is virtually useless. Claims many European colleagues agree with the and they would rather have qualitative information on symptoms and modes of action. Animal LD50 provides little information on actual human toxic or lethal doses.
+
+p210
+false sense of security when bolstered by carefully calculated but meaningless inforstd deviations (when vales for same substance vary substantially depending on who makes the determination)
+
+
+p211
+limit test - when substances are essentially non toxic, no point in doing more thaan confirming that  a dose of 5gm/kg does not cause harmful effects. Some standardisation needed re size o f limit dose
+
+approx letha dose - 1940s Deichamann and Leblanc/ Deichmann and Mergard set out protocolled evaluation - administer graduated doses, each increasing by 50% to single animals. Spacing th edoses precludes the possibility of killing the animal with one does and failing to kill  with the next higher dose. 
+p212 if a suitable starting does is chosen, as few as 4 animals can be used. 
